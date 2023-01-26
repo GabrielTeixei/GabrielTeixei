@@ -1,8 +1,12 @@
 ### Hi there 👋
-
 <!--
 </div align="center">
-  ![Snaje animation](https://github.com/GabrielTeixei/GabrielTeixei/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GabrielTeixei/GabrielTeixeira/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+</div align="center">
+  ![Snaje animation](https://github.com/GabrielTeixei/Gabriel Teixeira/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 </div align="center">
