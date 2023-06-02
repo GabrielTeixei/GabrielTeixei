@@ -6,8 +6,8 @@
 ## Skills and Technologies
 <div align="center">
   
-  [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTeixei&show_icons=true&theme=radical&count_private=true)](https://github.com/GabrielTeixei)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTeixei&layout=compact&theme=radical)](https://github.com/GabrielTeixei)
+  [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTeixei&show_icons=true&theme=dracula&count_private=true)](https://github.com/GabrielTeixei)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTeixei&layout=compact&theme=dracula)](https://github.com/GabrielTeixei)
   
 </div>  
 
