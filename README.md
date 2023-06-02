@@ -1,23 +1,32 @@
-### Ola! eu sou o Gabriel Teixeira 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fe7f7f&height=200&section=header&text=&fontSize=90" />
 
-#
-</div align="center">
-  
-  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTeixei&show_icons=true&theme=synthwave)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTeixei&layout=compact&theme=synthwave)](https://github.com/GabrielTeixei/github-readme-stats)
-  
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fe7f7f&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+MY+NAME+IS;Gabriel+Melo+Teixeira;I'm+a+computer+engineering+student;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<div align="center-left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="Html" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30" height="30" alt="CSS" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30" alt="TailwindCss" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="30" height="30" alt="Python" style="margin-right: 10px; "/>
-          
+
+## Skills and Technologies
+<div align="center">
+  
+  [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTeixei&show_icons=true&theme=radical&count_private=true)](https://github.com/GabrielTeixei)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTeixei&layout=compact&theme=radical)](https://github.com/GabrielTeixei)
+  
+</div>  
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" width="40" height="40" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCss" width="40" height="40" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40" style="margin-right: 10px;">
 </div>
+<!--
+- **HTML5:** [Projeto 1](https://github.com/seu-usuario/projeto-1)
+- **CSS3:** [Projeto 2](https://github.com/seu-usuario/projeto-2)
+- **JavaScript:** [Projeto 3](https://github.com/seu-usuario/projeto-3)
+- **React:** [IHC](https://github.com/seu-usuario/projeto-4)
+
+--!>
 
 
 
