@@ -20,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40" style="margin-right: 10px;">
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fe7f7f&height=120&section=footer"/>
 <!--
 - **HTML5:** [Projeto 1](https://github.com/seu-usuario/projeto-1)
 - **CSS3:** [Projeto 2](https://github.com/seu-usuario/projeto-2)
