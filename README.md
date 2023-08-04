@@ -1,8 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=027fe9&height=200&section=header&text=&fontSize=90" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=027fe9&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+MY+NAME+IS;Gabriel+Melo+Teixeira;I'm+a+computer+engineering+student;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
-
 ## Skills and Technologies 
 <div align="center">
   
@@ -10,6 +5,8 @@
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTeixei&layout=compact&theme=tokyonight)](https://github.com/GabrielTeixei)
   
 </div>  
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" width="40" height="40" style="margin-right: 10px;">
@@ -21,18 +18,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40" style="margin-right: 10px;">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=027fe9&height=120&section=footer"/>
-<!--
-- **HTML5:** [Projeto 1](https://github.com/seu-usuario/projeto-1)
-- **CSS3:** [Projeto 2](https://github.com/seu-usuario/projeto-2)
-- **JavaScript:** [Projeto 3](https://github.com/seu-usuario/projeto-3)
-- **React:** [IHC](https://github.com/seu-usuario/projeto-4)
+## Contactos
+<div align="center">
 
---!>
-
-
-
-
-          
-
+  <a href="https://www.instagram.com/gabriel_m_teixera/">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40" style="margin-right: 10px;">
+  </a>
+</div>
 
