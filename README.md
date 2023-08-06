@@ -17,12 +17,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40" style="margin-right: 10px;">
 </div>
+<br>
 
-## Contactos
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielTeixei&bg_color=0d1117&color=ffffff&line=d3d7cf&point=cc0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+
 <div align="center">
-
-  <a href="https://www.instagram.com/gabriel_m_teixera/">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40" style="margin-right: 10px;">
-  </a>
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielTeixei}/count.svg" /></p> 
+  <br>
 </div>
 
