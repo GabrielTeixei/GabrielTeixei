@@ -1,9 +1,10 @@
 ## Skills and Technologies 
 <div align="center">
+
   
-  [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTeixei&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/GabrielTeixei)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GabrielTeixei?cardType=level-alternate&theme=tokyonight&preferLogin=false&Ring=DD2727)](https://git.io/awesome-stats-card)
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTeixei&layout=compact&theme=tokyonight)](https://github.com/GabrielTeixei)
-  
+
 </div>
 
 <div align="center">
