@@ -19,8 +19,3 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielTeixei&bg_color=0d1117&color=ffffff&line=d3d7cf&point=cc0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
-<div align="center">
-  <br><p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img src="https://profile-counter.glitch.me/GabrielTeixei/count.svg" /></p> 
-  <br>
-</div>
